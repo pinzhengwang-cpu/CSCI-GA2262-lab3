@@ -78,3 +78,7 @@ Expected output:
 * FS returns HTTP 400 for invalid input
 * US returns HTTP 400 for missing parameters
 
+```
+
+You can paste this directly into your README and it will render correctly on GitHub.
+```
